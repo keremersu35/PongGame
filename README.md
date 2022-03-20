@@ -8,7 +8,7 @@ Pong, gelen topları belirli bir alana göndermeniz gereken ve yasaklı alanlara
 
 # Oyun Görüntüleri
 
-<img src="ss/ss1.png" width="600" height="360">  <img src="ss/ss2.png" width="600" height="360"> <img src="ss/ss3.png" width="600" height="360">
+<img src="ss/ss1.png" width="600" height="360">  <img src="ss/ss2.png" width="600" height="360"> <img src="ss/ss3.png" width="600" height="150">
 
 # Oyun Özellikleri 
 
